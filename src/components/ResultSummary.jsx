@@ -9,7 +9,7 @@ import {
 } from '@mui/material';
 
 import TailoredBP from './resultsComp/TailoredBP';
-import MissingKeyWords from './resultsComp/missingKeyWords';
+import MissingKeyWords from './resultsComp/MissingKeyWords';
 import ProgressBarScore from './resultsComp/ProgressBarScore';
 
 function getScoreColor(score) {
