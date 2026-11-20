@@ -12,7 +12,7 @@ import Header from './components/Header';
 import ResultSummary from './components/ResultSummary';
 import AnalyseButton from './components/AnalyseButton';
 import InputSection from './components/InputSection';
-import { testGemini, analyzeMatch } from './services/geminiService';
+import {analyzeMatch } from './services/geminiService';
 
 const cosmicTheme = createTheme({
   palette: {
